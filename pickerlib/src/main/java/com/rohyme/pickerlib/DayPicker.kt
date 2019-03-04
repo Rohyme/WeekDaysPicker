@@ -11,7 +11,7 @@ import android.widget.TextView
 
 class DayPicker : LinearLayout {
 
-    private lateinit var daysList: ArrayList<DaysModel.Day>
+    private var daysList: ArrayList<DaysModel.Day> = getData<DaysModel>(context, "days_list").days
     private lateinit var selectionListener: DayPickerListener
     private var isSelectedByDefault: Boolean = true
     private var selectedColor: Int = ContextCompat.getColor(context, R.color.selected_color)
@@ -97,7 +97,6 @@ class DayPicker : LinearLayout {
     private fun initView() {
         val dayTextView = TextView(context)
         dayTextView.background = resources.getDrawable(R.drawable.day_bg)
-        daysList = getData<DaysModel>(context, "days_list").days
         val isArabic = resources.configuration.locale.language == "ar"
         val containerWidth = measuredWidth
         val itemHeight = (containerWidth - (mSpaces * 6)) / daysList.size

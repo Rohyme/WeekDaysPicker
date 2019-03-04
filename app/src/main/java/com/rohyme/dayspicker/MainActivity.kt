@@ -2,6 +2,7 @@ package com.rohyme.dayspicker
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import com.rohyme.pickerlib.DayPicker
 import com.rohyme.pickerlib.DaysModel
@@ -21,5 +22,7 @@ class MainActivity : AppCompatActivity() {
             }
 
         })
+
+        Log.i("Day Picker" ,"selected list is ${dayPicker.getSelectedList()}")
     }
 }
