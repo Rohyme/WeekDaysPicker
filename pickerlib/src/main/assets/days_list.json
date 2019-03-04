@@ -1,0 +1,47 @@
+{
+  "days": [
+    {
+      "dayID": 1,
+      "arDay": "الأحد",
+      "enDay": "Sunday",
+      "arDayAbbrev": "اح",
+      "enDayAbbrev": "Sun"
+    }, {
+      "dayID": 2,
+      "arDay": "الأثنين",
+      "enDay": "Monday",
+      "arDayAbbrev": "اث",
+      "enDayAbbrev": "Mon"
+    }, {
+      "dayID": 3,
+      "arDay": "الثلاثاء",
+      "enDay": "Tuesday",
+      "arDayAbbrev": "ثل",
+      "enDayAbbrev": "Tue"
+    }, {
+      "dayID": 4,
+      "arDay": "الأربعاء",
+      "enDay": "Wednesday",
+      "arDayAbbrev": "ار",
+      "enDayAbbrev": "Wed"
+    }, {
+      "dayID": 5,
+      "arDay": "الخميس",
+      "enDay": "Thursday",
+      "arDayAbbrev": "خم",
+      "enDayAbbrev": "Thu"
+    }, {
+      "dayID": 6,
+      "arDay": "الجمعة",
+      "enDay": "Friday",
+      "arDayAbbrev": "جم",
+      "enDayAbbrev": "Fri"
+    }, {
+      "dayID": 7,
+      "arDay": "السبت",
+      "enDay": "Saturday",
+      "arDayAbbrev": "سب",
+      "enDayAbbrev": "Sat"
+    }
+  ]
+}

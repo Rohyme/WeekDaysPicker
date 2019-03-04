@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="dayPicker">
+        <attr name="dp_default_selection" format="boolean"/>
+        <attr name="dp_selected_color" format="color"/>
+        <attr name="dp_unSelected_color" format="color"/>
+        <attr name="dp_font_color" format="color"/>
+        <attr name="dp_day_text_full" format="boolean"/>
+        <attr name="dp_spaces_between_days" format="dimension"/>
+        <attr name="dp_text_size" format="dimension"/>
+        <attr name="dp_text_selected_color" format="color"/>
+        <attr name="dp_text_unselected_color" format="color"/>
+    </declare-styleable>
+</resources>
