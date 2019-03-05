@@ -1,4 +1,4 @@
-# WeekDaysPicker
+# WeekDaysPicker [![](https://jitpack.io/v/Rohyme/WeekDaysPicker.svg)](https://jitpack.io/#Rohyme/WeekDaysPicker)
 Very simple days picker (Arabic and English)
 
 Arabic days picker with full day name 
@@ -84,8 +84,7 @@ dependencies {
           Toast.makeText(this@MainActivity,latestSelected.arDay,Toast.LENGTH_SHORT).show()
            }  })
 		```
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzMwNDY1NiwtMTI0MDk2ODgwNiwxMD
-gwMTMzMzVdfQ==
+eyJoaXN0b3J5IjpbLTExOTQyNjg3MjUsLTEyNDA5Njg4MDYsMT
+A4MDEzMzM1XX0=
 -->
