@@ -49,10 +49,11 @@ dependencies {
 	  app:dp_default_selection="true"  
 	  app:dp_text_unselected_color="#000"  
 	  app:dp_text_selected_color="#fff"  
-	  app:dp_text_size="8sp"  
-  />
-	
-	- Attributes
+	  app:dp_text_size="8sp"  /> 
+	  ```
+	  
+	 - Attributes
+
 	
 |Attribute|usage|value
 |--|--|--|
@@ -66,10 +67,10 @@ dependencies {
 |```dp_text_size```|The size of text of the day view|Dimension|
  
 
-- **In Code** :
+ 2. **In Code** :
 	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ3NjYwODcsLTEyNDA5Njg4MDYsMT
-A4MDEzMzM1XX0=
+eyJoaXN0b3J5IjpbMTgxMzQzNDA0MCwtMTI0MDk2ODgwNiwxMD
+gwMTMzMzVdfQ==
 -->
