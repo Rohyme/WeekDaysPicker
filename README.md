@@ -67,10 +67,15 @@ dependencies {
 |```dp_text_size```|The size of text of the day view|Dimension|
  
 
- 2. **In Code** :
+- **In Code** :
+	- Getting view instance : 
+		```kotlin
+		
+		``` 
+	- Getting selected list 
 	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzQzNDA0MCwtMTI0MDk2ODgwNiwxMD
-gwMTMzMzVdfQ==
+eyJoaXN0b3J5IjpbLTE0MjA3ODY0MjcsLTEyNDA5Njg4MDYsMT
+A4MDEzMzM1XX0=
 -->
