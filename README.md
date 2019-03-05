@@ -56,11 +56,13 @@ dependencies {
 	
 |Attribute|usage|value
 |--|--|--|
-|```dp_day_text_full```  |  |  |
+|```dp_day_text_full```  |Show full name of the day or just abbreviation  | Boolean |
+|```dp_spaces_between_days```|Spaces between days view|Dimension|
+||||
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDQxNTc5NSwtMTI0MDk2ODgwNiwxMD
+eyJoaXN0b3J5IjpbMTk4MTc3Njc1MywtMTI0MDk2ODgwNiwxMD
 gwMTMzMzVdfQ==
 -->
