@@ -32,6 +32,7 @@ dependencies {
 ## Use
 
 - **In xml** :
+	- Example
 	```xml
 	<com.rohyme.pickerlib.DayPicker  
 	  android:id="@+id/dayPicker"  
@@ -51,9 +52,15 @@ dependencies {
 	  app:dp_text_size="8sp"  
   />
 	```
+	- Attributes
+	
+|Attribute|usage| |
+|--|--|
+|  |  |
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDg5ODMxMSwtMTI0MDk2ODgwNiwxMD
-gwMTMzMzVdfQ==
+eyJoaXN0b3J5IjpbLTEyMzI1NzM5MjEsLTEyNDA5Njg4MDYsMT
+A4MDEzMzM1XX0=
 -->
