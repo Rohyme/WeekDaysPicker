@@ -78,19 +78,14 @@ dependencies {
 		```
 	- Listener when days selection changed
 		```kotlin
-		dayPicker.setOnSelectListener(object :DayPicker.DayPickerListener{  
-    override fun onSelectedDaysChange(  
-        list: ArrayList<DaysModel.Day>,  
-  latestSelected: DaysModel.Day  
-    ) {  
-    Toast.makeText(this@MainActivity,latestSelected.arDay ,Toast.LENGTH_SHORT).show()  
-    }  
-  
-})
-		
+		dayPicker.setOnSelectListener(object :DayPicker.DayPickerListener{
+		override fun onSelectedDaysChange(  
+	        list: ArrayList<DaysModel.Day>,latestSelected: DaysModel.Day) {
+          Toast.makeText(this@MainActivity,latestSelected.arDay,Toast.LENGTH_SHORT).show()
+           }  })
 		```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5MTU2MjMyLC0xMjQwOTY4ODA2LDEwOD
-AxMzMzNV19
+eyJoaXN0b3J5IjpbMjEwMzMwNDY1NiwtMTI0MDk2ODgwNiwxMD
+gwMTMzMzVdfQ==
 -->
