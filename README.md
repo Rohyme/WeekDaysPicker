@@ -10,10 +10,19 @@ English days picker with  days abbreviation name
 
 ![English dayPicker](https://github.com/Rohyme/WeekDaysPicker/blob/master/Eng%20screenshot.jpg)
 
-
+## Install
+i
+```css
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNjE2NTM4LC0xMjQwOTY4ODA2LDEwOD
+eyJoaXN0b3J5IjpbNzgxMTE0OTE3LC0xMjQwOTY4ODA2LDEwOD
 AxMzMzNV19
 -->
