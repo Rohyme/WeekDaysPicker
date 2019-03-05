@@ -86,9 +86,11 @@ dependencies {
           Toast.makeText(this@MainActivity,latestSelected.arDay,Toast.LENGTH_SHORT).show()
            }  })
 		```
-	 - da
+	 - Days data source can be found [HERE](https://github.com/Rohyme/WeekDaysPicker/blob/master/pickerlib/src/main/assets/days_list.json)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjEzOTM5MTksMTcwNjI5MDc1MSwtMT
+eyJoaXN0b3J5IjpbLTE4NzQ1MTc3OTUsMTcwNjI5MDc1MSwtMT
 I0MDk2ODgwNiwxMDgwMTMzMzVdfQ==
 -->
