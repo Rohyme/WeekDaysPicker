@@ -69,7 +69,7 @@ dependencies {
 |```dp_text_size```|The size of text of the day view|Dimension|
  
 
-- **In Code** :
+ - **In Code** :
 	- Getting view instance : 
 		```kotlin
 		val dayPickerView = findViewById(R.id.dayPicker)
@@ -86,7 +86,9 @@ dependencies {
           Toast.makeText(this@MainActivity,latestSelected.arDay,Toast.LENGTH_SHORT).show()
            }  })
 		```
+	 - da
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjI5MDc1MSwtMTI0MDk2ODgwNiwxMD
-gwMTMzMzVdfQ==
+eyJoaXN0b3J5IjpbLTE0NjEzOTM5MTksMTcwNjI5MDc1MSwtMT
+I0MDk2ODgwNiwxMDgwMTMzMzVdfQ==
 -->
