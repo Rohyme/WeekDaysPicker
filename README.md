@@ -60,11 +60,15 @@ dependencies {
 |```dp_default_selection```|default status of all days item(selected or not)|Boolean|
 |```dp_spaces_between_days```|Spaces between days views|Dimension|
 |```dp_selected_color```|Color of selected day view|Color|
+|```dp_unSelected_color```|Color of not selected day view|Color|
+|```dp_text_selected_color```|Color of selected day view text|Color|
+|```dp_text_unselected_color```|Color of not selected day view text|Color|
+|```dp_text_size```|||
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgyODQ2MTksLTEyNDA5Njg4MDYsMT
-A4MDEzMzM1XX0=
+eyJoaXN0b3J5IjpbMTY5MDYyODUzMiwtMTI0MDk2ODgwNiwxMD
+gwMTMzMzVdfQ==
 -->
