@@ -31,7 +31,7 @@ dependencies {
 
 ## Use
 
-- **In xml** :
+ - **In xml** :
 	- Example
 	```xml
 	<com.rohyme.pickerlib.DayPicker  
@@ -63,12 +63,12 @@ dependencies {
 |```dp_unSelected_color```|Color of not selected day view|Color|
 |```dp_text_selected_color```|Color of selected day view text|Color|
 |```dp_text_unselected_color```|Color of not selected day view text|Color|
-|```dp_text_size```|||
+|```dp_text_size```|The size of text of the day view|Dimension|
+ 
 
-
-
+- In 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDYyODUzMiwtMTI0MDk2ODgwNiwxMD
+eyJoaXN0b3J5IjpbMTA5MDI3NzYxNywtMTI0MDk2ODgwNiwxMD
 gwMTMzMzVdfQ==
 -->
