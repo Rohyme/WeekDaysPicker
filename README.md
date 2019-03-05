@@ -54,13 +54,13 @@ dependencies {
 	```
 	- Attributes
 	
-|Attribute|usage| |
-|--|--|
-|  |  |
+|Attribute|usage|value
+|--|--|--|
+|```dp_day_text_full```  |  |  |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI1NzM5MjEsLTEyNDA5Njg4MDYsMT
-A4MDEzMzM1XX0=
+eyJoaXN0b3J5IjpbLTU0NDQxNTc5NSwtMTI0MDk2ODgwNiwxMD
+gwMTMzMzVdfQ==
 -->
