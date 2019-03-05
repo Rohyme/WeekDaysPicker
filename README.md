@@ -57,12 +57,14 @@ dependencies {
 |Attribute|usage|value
 |--|--|--|
 |```dp_day_text_full```  |Show full name of the day or just abbreviation  | Boolean |
-|```dp_spaces_between_days```|Spaces between days view|Dimension|
-||||
+|```dp_default_selection```|default status of all days item(selected or not)|Boolean|
+|```dp_spaces_between_days```|Spaces between days views|Dimension|
+|```dp_selected_color```|Color of selected day view|Color|
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTc3Njc1MywtMTI0MDk2ODgwNiwxMD
-gwMTMzMzVdfQ==
+eyJoaXN0b3J5IjpbLTE0MzgyODQ2MTksLTEyNDA5Njg4MDYsMT
+A4MDEzMzM1XX0=
 -->
