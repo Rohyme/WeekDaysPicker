@@ -29,8 +29,31 @@ dependencies {
 
 ```
 
+## Use
+
+- **In xml** :
+	```xml
+	<com.rohyme.pickerlib.DayPicker  
+	  android:id="@+id/dayPicker"  
+	  android:layout_width="0dp"  
+	  android:layout_height="wrap_content"  
+	  app:layout_constraintTop_toTopOf="parent"  
+	  app:layout_constraintStart_toStartOf="parent"  
+	  app:layout_constraintEnd_toEndOf="parent"  
+	  android:layout_margin="8dp"  
+	  app:dp_day_text_full="false"  
+	  app:dp_spaces_between_days="4dp"  
+	  app:dp_selected_color="#4CAF50"  
+	  app:dp_unSelected_color="#FFC107"  
+	  app:dp_default_selection="true"  
+	  app:dp_text_unselected_color="#000"  
+	  app:dp_text_selected_color="#fff"  
+	  app:dp_text_size="8sp"  
+  />
+	```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjM2ODIyNSwtMTI0MDk2ODgwNiwxMD
+eyJoaXN0b3J5IjpbMTA3NDg5ODMxMSwtMTI0MDk2ODgwNiwxMD
 gwMTMzMzVdfQ==
 -->
