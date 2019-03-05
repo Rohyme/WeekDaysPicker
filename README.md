@@ -2,6 +2,7 @@
 Very simple days picker (Arabic and English)
 
 Arabic days picker with full day name 
+
 ![Arabic dayPicker](https://github.com/Rohyme/WeekDaysPicker/blob/master/Ar%20screenshot.jpg)
 English days picker with  days abbreviation name
 
@@ -11,6 +12,6 @@ English days picker with  days abbreviation name
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDA1MzE5MiwtMTI0MDk2ODgwNiwxMD
+eyJoaXN0b3J5IjpbMjA1NTM1MTkyNiwtMTI0MDk2ODgwNiwxMD
 gwMTMzMzVdfQ==
 -->
