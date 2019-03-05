@@ -13,16 +13,18 @@ English days picker with  days abbreviation name
 ## Install
 
  - **Step 1.** Add the JitPack repository to your build file Add it in your root build.gradle at the end of repositories:
-```css
+```groovy
 allprojects {
 		repositories {
 			...
-			maven { url 'https://jitpack.io' }
+			maven {
+			 url 'https://jitpack.io' 
+			}
 		}
 	}
 ```
 - **Step 2.** Add the dependency
-```css
+```groovy
 dependencies {
 	 implementation 'com.github.Rohyme:WeekDaysPicker:1.0.0'
 	}
@@ -85,6 +87,6 @@ dependencies {
            }  })
 		```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQyNjg3MjUsLTEyNDA5Njg4MDYsMT
-A4MDEzMzM1XX0=
+eyJoaXN0b3J5IjpbMTcwNjI5MDc1MSwtMTI0MDk2ODgwNiwxMD
+gwMTMzMzVdfQ==
 -->
