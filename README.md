@@ -51,7 +51,7 @@ dependencies {
 	  app:dp_text_selected_color="#fff"  
 	  app:dp_text_size="8sp"  
   />
-	```
+	
 	- Attributes
 	
 |Attribute|usage|value
@@ -66,9 +66,10 @@ dependencies {
 |```dp_text_size```|The size of text of the day view|Dimension|
  
 
-- In 
+- **In Code** :
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDI3NzYxNywtMTI0MDk2ODgwNiwxMD
-gwMTMzMzVdfQ==
+eyJoaXN0b3J5IjpbLTEzNjQ3NjYwODcsLTEyNDA5Njg4MDYsMT
+A4MDEzMzM1XX0=
 -->
