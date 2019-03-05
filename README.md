@@ -1,5 +1,5 @@
 # WeekDaysPicker
-Very simple days picker to 
+Very simple days picker 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Njk1MTE2MF19
+eyJoaXN0b3J5IjpbMTA4MDEzMzM1XX0=
 -->
