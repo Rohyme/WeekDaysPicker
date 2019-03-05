@@ -70,12 +70,27 @@ dependencies {
 - **In Code** :
 	- Getting view instance : 
 		```kotlin
-		
+		val dayPickerView = findViewById(R.id.dayPicker)
 		``` 
 	- Getting selected list 
-	- 
+		```kotlin
+		dayPicker.getSelectedList()
+		```
+	- Listener when days selection changed
+		```kotlin
+		dayPicker.setOnSelectListener(object :DayPicker.DayPickerListener{  
+    override fun onSelectedDaysChange(  
+        list: ArrayList<DaysModel.Day>,  
+  latestSelected: DaysModel.Day  
+    ) {  
+    Toast.makeText(this@MainActivity,latestSelected.arDay ,Toast.LENGTH_SHORT).show()  
+    }  
+  
+})
+		
+		```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA3ODY0MjcsLTEyNDA5Njg4MDYsMT
-A4MDEzMzM1XX0=
+eyJoaXN0b3J5IjpbNTU5MTU2MjMyLC0xMjQwOTY4ODA2LDEwOD
+AxMzMzNV19
 -->
